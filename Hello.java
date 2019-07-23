@@ -10,4 +10,9 @@ public class Hello {
         System.out.println("dd");
         System.out.println("dd");
     }
+
+     @Test
+    public  void m() {
+        System.out.println("dd");
+    }
 }
