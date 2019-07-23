@@ -17,15 +17,11 @@ public class Hello {
          System.out.println("dd");
     }
 
-<<<<<<< HEAD
-
-    justsoso
-=======
+   justsoso
      @Test
     public  void m() {
         System.out.println("dd");
     }
->>>>>>> remotes/origin/master
     
 
 
